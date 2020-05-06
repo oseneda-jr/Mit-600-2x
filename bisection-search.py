@@ -1,6 +1,6 @@
 # Bisection search
 
-x = 1234567891011
+x = 24
 epsilon = 0.01
 numGuesses = 0
 low = 0.0
