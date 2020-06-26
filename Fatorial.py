@@ -4,5 +4,5 @@ def Fat(n):
     else:
         return n * Fat(n - 1)
 
-a = Fat(4)
+a = Fat(20)
 print(a)
