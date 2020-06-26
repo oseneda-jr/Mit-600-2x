@@ -1,3 +1,5 @@
+# Exercício para entendimento de escopo no python
+
 def f(x):
     def g():
         x = 'abc'
